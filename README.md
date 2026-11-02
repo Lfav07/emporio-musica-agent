@@ -60,7 +60,7 @@ Invoke-RestMethod -Method Post `
 
 Cada chamada precisa de `session_id` e `message`. Mensagens com o mesmo identificador compartilham histórico em memória durante a vida do processo. A API devolve `{ "answer": "..." }`.
 
-Para usar o chat no em modo CLI no terminal, em vez da API:
+Para usar o chat no modo CLI no terminal, em vez da API:
 
 ```powershell
 uv run emporio-musica-agent
