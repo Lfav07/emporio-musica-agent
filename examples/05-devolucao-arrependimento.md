@@ -1,12 +1,12 @@
-# Exemplo 5 — Devolução por arrependimento
+# Example 5 — Return due to buyer's remorse
 
-- Data: 02/11/2026
-- Interface: `POST /chat` (API local)
-- Sessão: `api-exemplo-05`
+- Date: 11/02/2026
+- Interface: `POST /chat` (local API)
+- Session: `api-example-05`
 - HTTP: `200 OK`
 
-**Cliente:** Fiz uma compra online e recebi o produto ontem. Ele está sem uso e na embalagem original. Posso devolver por arrependimento?
+**Customer:** I made an online purchase and received the product yesterday. It is unused and in its original packaging. Can I return it due to buyer's remorse?
 
-**Empório da Música:** Sim, você pode devolver o produto por arrependimento. De acordo com a política da loja, o cliente tem até 7 dias corridos após o recebimento para solicitar a devolução, desde que o produto esteja na embalagem original, sem uso e com todos os acessórios. O frete de devolução é por conta da loja e o reembolso será feito na forma de pagamento original em até 10 dias úteis.
+**Empório da Música:** Yes, you can return the product due to buyer's remorse. According to the store policy, the customer has up to 7 calendar days after receipt to request a return, provided the product is unused, in its original packaging, and includes all accessories. Return shipping is covered by the store, and the refund will be issued using the original payment method within 10 business days.
 
-Este caso aplica a regra de arrependimento para compras online (solicitação em até 7 dias corridos do recebimento). A data da compra, isoladamente, não foi usada como marco do prazo.
+This case applies the buyer's remorse policy for online purchases (a return request within 7 calendar days of receipt). The purchase date alone was not used as the starting point for the deadline.

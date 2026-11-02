@@ -1,10 +1,10 @@
-# Exemplo 2 — Preço de produto
+# Example 2 — Product price
 
-- Data: 02/11/2026
-- Interface: `POST /chat` (API local)
-- Sessão: `api-exemplo-02`
+- Date: 11/02/2026
+- Interface: `POST /chat` (local API)
+- Session: `api-example-02`
 - HTTP: `200 OK`
 
-**Cliente:** Quanto custa o Takamine GD20?
+**Customer:** How much does the Takamine GD20 cost?
 
-**Empório da Música:** O Takamine GD20 Dreadnought Natural custa R$ 2.199,00.
+**Empório da Música:** The Takamine GD20 Dreadnought Natural costs R$2,199.00.

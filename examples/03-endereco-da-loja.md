@@ -1,10 +1,10 @@
-# Exemplo 3 — Endereço da loja
+# Example 3 — Store address
 
-- Data: 02/11/2026
-- Interface: `POST /chat` (API local)
-- Sessão: `api-exemplo-03`
+- Date: 11/02/2026
+- Interface: `POST /chat` (local API)
+- Session: `api-example-03`
 - HTTP: `200 OK`
 
-**Cliente:** Qual o endereço da loja?
+**Customer:** What is the store's address?
 
-**Empório da Música:** O endereço da loja é: Rua 14 de Maio, 3200 — Centro, Campo Grande - MS, 79202-333.
+**Empório da Música:** The store's address is Rua 14 de Maio, 3200 — Centro, Campo Grande - MS, 79202-333, Brazil.
