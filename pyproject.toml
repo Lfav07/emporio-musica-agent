@@ -7,7 +7,13 @@ authors = [
     { name = "lfav07", email = "lfavieira07@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "langchain>=1.4.7",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.2",
+    "langchain-ollama>=1.1.0",
+    "pypdf>=6.21.4",
+]
 
 [project.scripts]
 emporio-musica-agent = "emporio_musica_agent:main"
