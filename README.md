@@ -60,7 +60,7 @@ Invoke-RestMethod -Method Post `
 
 Cada chamada precisa de `session_id` e `message`. Mensagens com o mesmo identificador compartilham histórico em memória durante a vida do processo. A API devolve `{ "answer": "..." }`.
 
-Para usar o chat no terminal, em vez da API:
+Para usar o chat no em modo CLI no terminal, em vez da API:
 
 ```powershell
 uv run emporio-musica-agent
@@ -107,5 +107,3 @@ Os cinco registros em [`examples/`](examples/) documentam conversas feitas pela 
 ## Uso de assistentes de código
 
 Usei o Codex como assistente de código para apoiar a leitura do enunciado e do repositório, estruturar esta documentação e executar as verificações e chamadas à API. As decisões e alterações foram revisadas no contexto do código e dos dados fornecidos.
-
-
