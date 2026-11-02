@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Local vector index generated from the policy PDF
+data/chroma/
+data/chroma_staging/
+data/chroma_previous/
